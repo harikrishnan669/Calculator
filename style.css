@@ -11,19 +11,20 @@
   display: flex;
   align-item: center;
   justify-content: center;
+  background-image: url("https://img.freepik.com/premium-vector/pi-day-seamless-pattern-with-mathematical-constants-baked-pie-template-hand-drawn-illustration_2175-12164.jpg")
 }
 .calculator{
-  background:  #3a4452;
+  background: #3a4452;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 .calculator form input{
-  border: 0;
-  outline: 0;
+  border: 30px;
+  outline: 30px;
   width: 60px;
   height: 60px;
   border-radis: 10px;
-  box-shadow: -8px -8px 15px rgba(255,255,255,0.1), -5px -5px 15px rgba(0,0,0,0.2);
+  box-shadow: -8px 8px 10px lightblue; 
   background: transparent;
   font-size: 20px;
   color: #fff;
@@ -32,6 +33,7 @@
 }
 form .display{
   display: flex;
+  border: 20px;
   justify-content: flex-end;
   margin: 20px 0;
 }
@@ -45,6 +47,6 @@ form input.equal{
   width: 145px;
 }
 form input.operator{
-  color: #33ffde;
+  color: #00A86B;
 } 
 }
