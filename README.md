@@ -1,2 +1,3 @@
 # CALCULATOR
-Made a caluclator using HTML and CSS
+A simple calculator using HTML,CSS and Javascript
+link: https://harikrishnan669.github.io/Calculator/
